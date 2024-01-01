@@ -28,7 +28,7 @@ Rest API 를 이용한 지도를 기반 일정 기록 플랫폼 서버입니다.
 
 
 ### 6. Wiki
-
+https://github.com/zooo-code/map-plan/wiki
 
 ### 7. CI
 
