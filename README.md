@@ -3,7 +3,7 @@ MapWithPlan
 지도를 기반 일정 기록 플랫폼 서버입니다. 실제 서버에 대한 학습과 배포를 목적으로 하고 있습니다.
 사용자들이 
 
-[Overview](https://ovenapp.io/project/igQ9zwNX8hZeELH4pUkpYjcAqXwPrMgd#GcTOg)
+[Overview](https://ovenapp.io/view/igQ9zwNX8hZeELH4pUkpYjcAqXwPrMgd/Z3RBl)
 
 ### 1. 프로젝트 구조
 
