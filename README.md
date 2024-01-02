@@ -38,7 +38,7 @@ https://github.com/zooo-code/map-plan/wiki
 
 
 ### 9. 화면 설계
-
+[ProtoType](https://ovenapp.io/view/kQ9bpGlA8kSjXexXvNPTym1u2JSNatnK/)
 #### 9.1 고객화면
 #### 9.2 관리자 화면 
 
