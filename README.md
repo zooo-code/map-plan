@@ -7,7 +7,7 @@ MapWithPlan
 
 실제 서버에 대한 학습과 배포를 목적으로 하고 있습니다.
  
-test
+
 [Overview](https://ovenapp.io/view/igQ9zwNX8hZeELH4pUkpYjcAqXwPrMgd/Z3RBl)
 
 ### 1. 프로젝트 구조
